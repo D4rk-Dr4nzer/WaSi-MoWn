@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *ALEENA*:  ```" + msg + "```"
+    return "✅ *Criminal*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *ALEENA*:  ```" + msg + "```"
+    return "🛑 *Criminal*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *ALEENA*:  ```" + msg + "```"
+    return "⏺️ *Criminal*:  ```" + msg + "```"
 }
 
 
