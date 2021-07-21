@@ -91,7 +91,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/WAHID-BOT
+$ git clone https://github.com/WAHID-BOT/Criminal
 $ cd Criminal
 $ chmod +x *
 $ npm i
@@ -114,7 +114,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) |  [![WAHID-BOT](https://github.com/WAHID-BOT.png?size=100)](https://github.com/WAHID-BOT)  | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[TOXIC4L!3N](https://github.com/AI-VIKI)  | [Nikhil Jr](https://github.com/WAHID-BOT) | [afnanplk](https://github.com/afnanplk)
+[TOXIC4L!3N](https://github.com/AI-VIKI)  | [WAHID BOT](https://github.com/WAHID-BOT) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Owner,Modifiying  as   public | Bug Fixes, Modules
   </div>
     
