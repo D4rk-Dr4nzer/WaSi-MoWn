@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/Nikhil-Jr" width="200" height="200"/>
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/WAHID-BOT" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="AleenaMwol" src="https://img.shields.io/badge/AleenaMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Criminal" src="https://img.shields.io/badge/Criminal-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Nikhil-Jr"><img title="Author" src="https://img.shields.io/badge/Author-Nikhil-Jr/Aleena?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/WAHID-BOT"><img title="Author" src="https://img.shields.io/badge/Author-WAHID-BOT/Criminal?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Nikhil-Jr">Nikhil Jr</a> to make it public
+Project created by <a href="https://github.com/WAHID-BOT">WAHID-BOT</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,18 +19,20 @@ Project created by <a href="https://github.com/Nikhil-Jr">Nikhil Jr</a> to make 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Nikhil-Jr/Aleena">
-    <img src="https://img.shields.io/github/repo-size/Nikhil-Jr/Aleena?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/WAHID-BOT/Criminal">
+    <img src="https://img.shields.io/github/repo-size/WAHID-BOT/Criminal?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Nikhil-Jr/followers"><img title="Followers" src="https://img.shields.io/github/followers/Nikhil-Jr?color=blue&style=flat-square"></a>
-<a href="https://github.com/Nikhil-Jr/Aleena/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nikhil-Jr/Aleena?color=blue&style=flat-square"></a>
-<a href="https://github.com/Nikhil-Jr/Aleena/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Nikhil-Jr/Aleena?color=blue&style=flat-square"></a>
-<a href="https://github.com/Nikhil-Jr/Aleena/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nikhil-Jr/Aleena?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/WAHID-BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/WAHID-BOT?color=blue&style=flat-square"></a>
+<a href="https://github.com/WAHID-BOT/Criminal/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/WAHID-BOT/Criminal?color=blue&style=flat-square"></a>
+<a href="https://github.com/WAHID-BOT/Criminal/network/members"><img title="Forks" src="https://img.shields.io/github/forks/WAHID-BOT/Criminal?color=blue&style=flat-square"></a>
+<a href="https://github.com/WAHID-BOT/Criminal/watchers"><img t/itle="Watching" src="https://img.shields.io/github/watchers/WAHID-BOT/Criminal"
+
+?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
   
 ```
-Aleena - Aleena Userbot is Open Source software open to development. 
+Criminal - Criminal Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -53,7 +55,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/L7nVhwQh9NX59hqyVswgoG)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Jr&repo=Aleena&theme=nightowl)](https://github.com/Nikhil-Jr/Aleena)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAHID-BOT&repo=Criminal&theme=nightowl)](https://github.com/WAHID-BOT/Criminal)
   </div>
     
 ## Setup
@@ -63,7 +65,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nikhil-Jr/Aleena)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WAHID-BOT/Criminal)
      </div>
 <br>
 <br >
@@ -78,8 +80,9 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Nikhil-Jr/Aleena
-$ cd Aleena
+$ git clone https://github.com/WAHID-BOT/Criminal
+$ cd Criminal
+
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -88,8 +91,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Nikhil-Jr/Aleena
-$ cd Aleena
+$ git clone https://github.com/WAHID-BOT
+$ cd Criminal
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -109,9 +112,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) |  [![Nikhil Jr](https://github.com/Nikhil-Jr.png?size=100)](https://github.com/Nikhil-Jr) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) |  [![WAHID-BOT](https://github.com/WAHID-BOT.png?size=100)](https://github.com/WAHID-BOT)  | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[TOXIC4L!3N](https://github.com/AI-VIKI)  | [Nikhil Jr](https://github.com/Nikhil-Jr) | [afnanplk](https://github.com/afnanplk)
+[TOXIC4L!3N](https://github.com/AI-VIKI)  | [Nikhil Jr](https://github.com/WAHID-BOT) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Owner,Modifiying  as   public | Bug Fixes, Modules
   </div>
     
