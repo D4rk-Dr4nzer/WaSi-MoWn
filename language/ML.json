@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "Manglish",
     "LANGCODE": "ml",
-    "AUTHOR": "Nikhil-Jr",
+    "AUTHOR": "WAHID-BOT",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
@@ -72,9 +72,9 @@
             "MUST_TEXT": "```eathellum oru messagin reply cheyyu```"
         },
         "heroku": {
-            "RESTART_DESC": "\nRestart Aleenamwol\n",
+            "RESTART_DESC": "\nRestart Criminalbot\n",
             "RESTART_MSG": "```punararambikkunu...```",
-            "SHUTDOWN_DESC": "\nShutdown Aleenamwol\n",
+            "SHUTDOWN_DESC": "\nShutdown Criminal bot\n",
             "SHUTDOWN_MSG": "```adach poottunnu ⛔```",
             "DYNO_DESC": "heroku dyno kanaan ",
             "DYNO_TOTAL": "```motham Quota```",
@@ -186,7 +186,7 @@
             "SONG_DESC": "ningal type cheytha paatt upload cheyth therum.",
             "NEED_TEXT_SONG": "*paattinte per adikku!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*ennikk onnum kandethaan aayilla :(*",
-            "DOWNLOADING_SONG": "\npaatt thappunnu 🤗\n",
+            "DOWNLOADING_SONG": "\nnokatte kittanel thara🤗\n",
             "UPLOADING_SONG": "\nPaatt Upload 📲 cheyyunnu\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
             "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
-            "DOWNLOADING": "```Nissaram 🤠```"
+            "DOWNLOADING": "```Ithokke endh 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "bot working aano enn ariyan",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*ningalude bot up-to-date aan!*",
-            "NEW_UPDATE": "*Aleena Mwolkk oru Update und* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "NEW_UPDATE": "*Criminal Botin oru Update und* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```Updating..🐥```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*👰 njan onnu restart cheythitt varaam ok bei 🧑🏻‍🦯  ?*"
+            "AFTER_UPDATE": "*🎗️ njan onnu restart cheythitt varaam ok bei 🧑🏻‍🦯  ?*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
@@ -410,13 +410,13 @@
             "MUTE_OPEN": "*Allright Boss! Chat Has Been Opened!*"
         },
         "unvoice": {
-            "UV_DESC": "audio sound recording aakki maatan.",
+            "UV_DESC": "audio sound recording aaki mattaan.",
             "UV_REPLY": "* Audio File reply aakanam!*",
             "UV_PROC": "```Sound Recordingilekk aakkkunu..```"
         },
         "ffmpeg": {
             "FF_DESC": "paranja ffmpeg filter to the videoyill add aakan.\n⌨️ Example: .ffmpeg fade=in:0:30",
-            "FF_PROC": "effect add aakkunnu.."
+            "FF_PROC": "wait man.."
         },
         "spammer": {
             "SPAM_DESC": "nirthunath vere spam aakkum.\n⌨️ Example: .spam test",
