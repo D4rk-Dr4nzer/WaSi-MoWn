@@ -23,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           *\n💥═AleenaMwol Owner Nikhil Jr═💥*\n\n*💘https://github.com/Nikhil-Jr/Aleena*\n*"
+        r_text[1] = "*Git links*\n           *\n⊱❁═𝑪𝑹𝑰𝑴𝑰𝑵𝑨𝑳 Owner 𝑾𝑨𝑯𝑰𝑫 𝑻𝑲𝒁═❀:ཻུ۪۪*\n\n*💘https://github.com/WAHID-BOT/Criminal*\n*"
 
     
         await message.client.sendMessage(
@@ -54,7 +54,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           \n*💥═AleenaMwol Owner Nikhil Jr═💥*\n\n*💘https://github.com/Nikhil-Jr/Aleena*"
+        r_text[1] = "*Git links*\n           \n*⊱❁═𝐂𝐑𝐈𝐌𝐈𝐍𝐀𝐋 Owner 𝑾𝑨𝑯𝑰𝑫 𝑻𝑲𝒁═❀:ཻུ۪۪*\n\n*💘https://github.com/WAHID-BOT/Criminal*"
 
     
         await message.client.sendMessage(
