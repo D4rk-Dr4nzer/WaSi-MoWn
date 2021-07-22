@@ -55,7 +55,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/L7nVhwQh9NX59hqyVswgoG)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAHID-BOT&repo=Criminal&theme=nightowl)](https://github.com/WAHID-BOT/Criminal)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D4rk-Dr4nzer&repo=WaSi-MoWn&theme=nightowl)](https://github.com/D4rk-Dr4nzer/WaSi-MoWn)
   </div>
     
 ## Setup
@@ -112,9 +112,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) |  [![WAHID-BOT](https://github.com/WAHID-BOT.png?size=100)](https://github.com/WAHID-BOT)  | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) |  [![D4rk-Dr4nzer](https://github.com/D4rk-Dr4nzer.png?size=100)](https://github.com/D4rk-Dr4nzer)  | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[TOXIC4L!3N](https://github.com/AI-VIKI)  | [WAHID BOT](https://github.com/WAHID-BOT) | [afnanplk](https://github.com/afnanplk)
+[TOXIC4L!3N](https://github.com/AI-VIKI)  | [D4rk-Dr4nzer](https://github.com/D4rk-Dr4nzer) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Owner,Modifiying  as   public | Bug Fixes, Modules
   </div>
     
