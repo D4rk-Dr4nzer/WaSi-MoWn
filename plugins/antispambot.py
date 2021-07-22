@@ -1,5 +1,5 @@
-#    Copyright (C) 2020  Nikhil-Jr
-# baning spmmers plugin for Aleena by @Nikhil-Jr
+#    Copyright (C) 2020  WAHID TKZ
+# baning spmmers plugin for Criminal by @WAHID TKZ
 # included both Aleena(Aleena antispam service) and spamwatch (need to add more feaututres)
 
 from requests import get
@@ -73,7 +73,7 @@ if Config.ANTISPAMBOT_BAN:
                 data = None
             if data and data["ok"]:
                 reason = (
-                    f"[Banned by Aleena Anti Spam](https://cas.chat/query?u={user.id})"
+                    f"[Banned by Criminal Anti Spam](https://cas.chat/query?u={user.id})"
                 )
                 hmm = await event.reply(
                     f"[{user.first_name}](tg://user?id={user.id}) was banned by Combat anti-spam service(CAS) for the reason check {reason}"
@@ -98,7 +98,7 @@ if Config.ANTISPAMBOT_BAN:
 async def caschecker(cas):
     catevent = await edit_or_reply(
         cas,
-        "`checking any cas(Aleena antispam service) banned users here, this may take several minutes too......`",
+        "`checking any cas(Criminal antispam service) banned users here, this may take several minutes too......`",
     )
     text = ""
     chat = cas.chat_id
@@ -194,7 +194,7 @@ CMD_HELP.update(
     {
         "antispambot": "**Plugin : **`antispambot`\
         \n\n**Syntax : **`.cascheck`\
-        \n**Function : **__Searches for Aleena(Aleena antispam service) banned users in group and shows you the list__\
+        \n**Function : **__Searches for Criminal(Criminal antispam service) banned users in group and shows you the list__\
         \n\n**Syntax : **`.spamcheck`\
         \n**Function : **__Searches for spamwatch banned users in group and shows you the list__"
     }
