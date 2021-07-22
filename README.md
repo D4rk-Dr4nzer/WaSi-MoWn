@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/D4rk-Dr4nzer">D4rk-Dr4nzer</a> to
 ----
 
   <p align="center">
-  <a href="httsp://github.com/WAHID-BOT/Criminal">
-    <img src="https://img.shields.io/github/repo-size/WAHID-BOT/Criminal?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/D4rk-Dr4nzer/Wasi-Mown">
+    <img src="https://img.shields.io/github/repo-size/D4rk-Dr4nzer/Wasi-Mown?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/WAHID-BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/WAHID-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/WAHID-BOT/Criminal/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/WAHID-BOT/Criminal?color=blue&style=flat-square"></a>
-<a href="https://github.com/WAHID-BOT/Criminal/network/members"><img title="Forks" src="https://img.shields.io/github/forks/WAHID-BOT/Criminal?color=blue&style=flat-square"></a>
-<a href="https://github.com/WAHID-BOT/Criminal/watchers"><img t/itle="Watching" src="https://img.shields.io/github/watchers/WAHID-BOT/Criminal"
+<a href="https://github.com/D4rk-Dr4nzer/followers"><img title="Followers" src="https://img.shields.io/github/followers/D4rk-Dr4nzer?color=blue&style=flat-square"></a>
+<a href="https://github.com/D4rk-Dr4nzer/WaSi-MoWn/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/D4rk-Dr4nzer/WaSi-MoWn?color=blue&style=flat-square"></a>
+<a href="https://github.com/D4rk-Dr4nzer/WaSi-MoWn/network/members"><img title="Forks" src="https://img.shields.io/github/forks/D4rk-Dr4nzer/WaSi-MoWn?color=blue&style=flat-square"></a>
+<a href="https://github.com/D4rk-Dr4nzer/WaSi-MoWn/watchers"><img t/itle="Watching" src="https://img.shields.io/github/watchers/D4rk-Dr4nzer/WaSi-MoWn"
 
 ?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
