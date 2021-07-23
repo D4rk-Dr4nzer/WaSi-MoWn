@@ -73,7 +73,7 @@ if Config.ANTISPAMBOT_BAN:
                 data = None
             if data and data["ok"]:
                 reason = (
-                    f"[Banned by Criminal Anti Spam](https://cas.chat/query?u={user.id})"
+                    f"[Banned by Baby-Bot Anti Spam](https://cas.chat/query?u={user.id})"
                 )
                 hmm = await event.reply(
                     f"[{user.first_name}](tg://user?id={user.id}) was banned by Combat anti-spam service(CAS) for the reason check {reason}"
@@ -98,7 +98,7 @@ if Config.ANTISPAMBOT_BAN:
 async def caschecker(cas):
     catevent = await edit_or_reply(
         cas,
-        "`checking any cas(Criminal antispam service) banned users here, this may take several minutes too......`",
+        "`checking any cas(Baby-Bot antispam service) banned users here, this may take several minutes too......`",
     )
     text = ""
     chat = cas.chat_id
@@ -194,7 +194,7 @@ CMD_HELP.update(
     {
         "antispambot": "**Plugin : **`antispambot`\
         \n\n**Syntax : **`.cascheck`\
-        \n**Function : **__Searches for Criminal(Criminal antispam service) banned users in group and shows you the list__\
+        \n**Function : **__Searches for Baby-Bot(Baby-Bot antispam service) banned users in group and shows you the list__\
         \n\n**Syntax : **`.spamcheck`\
         \n**Function : **__Searches for spamwatch banned users in group and shows you the list__"
     }
