@@ -178,7 +178,7 @@ async function whatsAsena () {
                 var ov_time = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n🐺 AleenaMwol'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\nBABI-BOT🧚‍♂️'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('62')) { // Indonesia
@@ -799,10 +799,10 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                             }
                             else {
                                 await conn.sendMessage(conn.user.jid, '*-- ERROR REPORT [BABY-BOT🧚‍♂️] --*' + 
-                                    '\n*AleenaMwol an error has occurred!*'+
+                                    '\n*BABI-BOT🧚‍♂️ an error has occurred!*'+
                                     '\n*This error log may include your number or the number of an opponent. Please be careful with it!*' +
                                     '\n*You can write to our Telegram group for help.*' +
-                                    '\n*Aslo you can join our support group:* https://chat.whatsapp.com/L7nVhwQh9NX59hqyVswgoG' +
+                                    '\n*Aslo you can join our support group:* https://chat.whatsapp.com/DOldOSgEOFt8MaJOdTUL9V' +
                                     '\n*This message should have gone to your number (saved messages).*\n\n' +
                                     '*Error:* ```' + error + '```\n\n'
                                     , MessageType.text, {detectLinks: false}
