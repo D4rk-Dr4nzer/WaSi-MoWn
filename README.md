@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/D4rk-Dr4nzer">D4rk-Dr4nzer</a> to
 </p>
   
 ```
-Criminal - Criminal Userbot is Open Source software open to development. 
+Kitty - Kitty Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
