@@ -692,7 +692,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('split')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [Criminal bot] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [BABY-BOT🧚‍♂️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '\n\n*Ana Hata:* _Split of Undefined_' +
                                         '\n*Nedeni:* _Grup adminlerinin kullanabildiği komutların ara sıra split fonksiyonunu görememesi._ ' +
@@ -701,7 +701,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );                               
                                 }
                                 else if (error.message.includes('Ookla')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [Criminal bot] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [BABY-BOT🧚‍♂️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '\n\n*Ana Hata:* _Ookla Server Connection_' +
                                         '\n*Nedeni:* _Speedtest verilerinin sunucuya iletilememesi._' +
@@ -710,7 +710,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('params')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [Criminal bot] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [BABY-BOT🧚‍♂️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '\n\n*Ana Hata:* _Requested Audio Params_' +
                                         '\n*Nedeni:* _TTS komutunun latin alfabesi dışında kullanılması._' +
@@ -719,7 +719,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('unlink')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [Criminal bot] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [BABY-BOT🧚‍♂️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '\n\n*Ana Hata:* _No Such File or Directory_' +
                                         '\n*Nedeni:* _Pluginin yanlış kodlanması._' +
@@ -728,7 +728,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('404')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [Criminal bot] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [BABY-BOT🧚‍♂️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '\n\n*Ana Hata:* _Error 404 HTTPS_' +
                                         '\n*Nedeni:* _Heroku plugini altındaki komutların kullanılması sonucu sunucu ile iletişime geçilememesi._' +
@@ -737,7 +737,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('reply.delete')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [Criminal bot] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [BABY-BOT🧚‍♂️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '\n\n*Ana Hata:* _Reply Delete Function_' +
                                         '\n*Nedeni:* _IMG yada Wiki komutlarının kullanılması._' +
@@ -746,7 +746,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('load.delete')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [Criminal bot]⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [BABY-BOT🧚‍♂️]⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '\n\n*Ana Hata:* _Reply Delete Function_' +
                                         '\n*Nedeni:* _IMG yada Wiki komutlarının kullanılması._' +
@@ -755,7 +755,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('400')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [Criminal bot] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [BABY-BOT🧚‍♂️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '\n\n*Ana Hata:* _Bailyes Action Error_ ' +
                                         '\n*Nedeni:* _Tam nedeni bilinmiyor. Birden fazla seçenek bu hatayı tetiklemiş olabilir._' +
@@ -764,7 +764,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('decode')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [Criminal bot] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [BABY-BOT🧚‍♂️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '\n\n*Ana Hata:* _Cannot Decode Text or Media_' +
                                         '\n*Nedeni:* _Pluginin yanlış kullanımı._' +
@@ -773,7 +773,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('unescaped')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [Criminal bot] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [BABY-BOT🧚‍♂️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '\n\n*Ana Hata:* _Word Character Usage_' +
                                         '\n*Nedeni:* _TTP, ATTP gibi komutların latin alfabesi dışında kullanılması._' +
@@ -782,7 +782,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('conversation')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [Criminal bot] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ HATA ÇÖZÜMLEME [BABY-BOT🧚‍♂️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '\n\n*Ana Hata:* _Deleting Plugin_' +
                                         '\n*Nedeni:* _Silinmek istenen plugin isminin yanlış girilmesi._' +
