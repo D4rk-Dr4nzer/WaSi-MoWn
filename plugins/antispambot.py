@@ -1,5 +1,5 @@
-#    Copyright (C) 2020  WAHID TKZ
-# baning spmmers plugin for Criminal by @WAHID TKZ
+#    Copyright (C) 2020  WASIH TKZ
+# baning spmmers plugin for baby-bot by @WASIH TKZ
 # included both Aleena(Aleena antispam service) and spamwatch (need to add more feaututres)
 
 from requests import get
