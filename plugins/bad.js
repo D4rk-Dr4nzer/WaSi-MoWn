@@ -46,8 +46,8 @@ notheri()
 var ldc = ''
 if (Config.LANG == 'AZ') ldc = '*Bağlantı Aşkarlandı!*'
 if (Config.LANG == 'TR') ldc = '*‎Link Tespit Edildi!*'
-if (Config.LANG == 'EN') ldc = '*ഇത് ഞാനും ചെയ്യില്ല നീയും ചെയ്യില്ല* \n 😅 *arod parayan aar kelkaan* \n *edth purath aakiyathin shesham aan parayunne* 😅😅'
-if (Config.LANG == 'ML') ldc = '*ലിങ്ക് കണ്ടെത്തി!*'
+if (Config.LANG == 'EN') ldc = '*ഇത് ഞാനും ചെയ്യില്ല നീയും ചെയ്യില്ല.... 🙌* \n  *മേലാൽ ഈ ഏരിയയിൽ കണ്ടു പോവരുത്......🤫😎*'
+if (Config.LANG == 'ML') ldc = '*GROUP rule തെറ്റിച്ചു...😊 \n *മോനൂസേ..മോൻ പോയിക്കോ... ```K bei```!*'
 if (Config.LANG == 'ID') ldc = '*Tautan Terdeteksi!*'
 if (Config.LANG == 'PT') ldc = '*Link Detectado!*'
 if (Config.LANG == 'RU') ldc = '*Ссылка обнаружена!*'
@@ -56,15 +56,15 @@ if (Config.LANG == 'ES') ldc = '*Enlace Detectado!*'
 Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (message, match) => {
     if (therikick_var == 'true' && message.jid !== '905511384572-1616356915@g.us') {
         let regex1 = new RegExp('thayoli')
-        let regex2 = new RegExp('Myre')
-        let regex3 = new RegExp('poorimone')
-        let regex4 = new RegExp('poor')
+        let regex2 = new RegExp('Thayoli')
+        let regex3 = new RegExp('Thaleyoli')
+        let regex4 = new RegExp('thaleyoli')
         let regex5 = new RegExp('https://chat.whatsapp.com/')
-        let regex6 = new RegExp('andi')
-        let regex7 = new RegExp('myr')
-        let regex8 = new RegExp('umban')
-        let regex9 = new RegExp('oombi')
-        let regex10 = new RegExp('myran')
+        let regex6 = new RegExp('Pundachimon')
+        let regex7 = new RegExp('Pundachimwon')
+        let regex8 = new RegExp('pundachimon')
+        let regex9 = new RegExp('pundachimwon')
+        let regex10 = new RegExp('Thalleyoli')
         if (regex1.test(message.message)) {
             var us = await checkUsAdmin(message)
             var im = await checkImAdmin(message)
