@@ -116,7 +116,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```coded by afnan pallikkel```"
+            "value": "╭═════〘𝑩𝑨𝑩𝒀-𝑩𝑶𝑻〙═════⊷❍/n/n ```coded by Wasih tkz```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
